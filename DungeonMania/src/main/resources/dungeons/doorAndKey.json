@@ -1,0 +1,27 @@
+
+{
+  "width": 8,
+  "height": 9,
+  "entities": [
+    {
+      "x": 2,
+      "y": 2,
+      "type": "player"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "type": "door"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "key"
+    }
+  
+    
+  ],
+  "goal-condition": {
+    "goal": "boulder"
+  }
+}

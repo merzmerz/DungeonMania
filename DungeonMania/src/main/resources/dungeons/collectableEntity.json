@@ -1,0 +1,109 @@
+{
+    "width": 8,
+    "height": 9,
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "type": "armour"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "type": "arrow"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "type": "bomb"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "type": "health_potion"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "type": "invincibility_potion"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "type": "invisibility_potion"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "key"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "type": "sword"
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "type": "treasure"
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "type": "key"
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "type": "door"
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "type": "wood"
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "type": "zombie_toast_spawner"
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "type": "health_potion"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "boulder"
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "type": "spider"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "type": "switch"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "type": "switch"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "type": "zombie_toast"
+        }
+    ],
+    "goal-condition": {
+        "goal": "treasure"
+    }
+}
